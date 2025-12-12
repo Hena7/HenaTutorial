@@ -1,4 +1,4 @@
-@tailwind utilities;
+@import "tailwindcss";
 
 /* Add some basic CSS variables for the theme */
 :root {
