@@ -24,7 +24,7 @@ export default async function LessonPage(props: Props) {
         {params.lessonSlug ? params.lessonSlug.replace(/-/g, " ") : "Lessons"}
       </h1>
 
-      <YouTubePlayer videoId="dQw4w9WgXcQ" />
+      <YouTubePlayer videoId="watch?v=uX5SF94RBNI" />
 
       <p className="text-slate-300 leading-relaxed">
         In this lesson, you’ll learn the core concepts and how they apply in
