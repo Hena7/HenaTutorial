@@ -1,4 +1,4 @@
-import GlassCard from "./component/GlassCard";
+import GlassCard from "../components/GlassCard";
 
 export default function Home() {
   return (

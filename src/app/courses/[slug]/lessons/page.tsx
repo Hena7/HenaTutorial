@@ -1,4 +1,4 @@
-import YouTubePlayer from "@/app/component/YouTubePlayer";
+import YouTubePlayer from "@/component/YouTubePlayer";
 import Link from "next/link";
 
 type Props = {

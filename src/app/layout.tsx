@@ -1,5 +1,5 @@
 import "./globals.css";
-import Navbar from "./component/Navbar";
+import Navbar from "../components/Navbar";
 
 export const metadata = {
   title: "HeniTutorial Academy",

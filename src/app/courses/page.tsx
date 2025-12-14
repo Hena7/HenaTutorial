@@ -1,4 +1,4 @@
-import GlassCard from "../component/GlassCard";
+import GlassCard from "../../component/GlassCard";
 import Link from "next/link";
 
 export default function CoursesPage() {
